@@ -48,7 +48,7 @@ repository.
 - eztang12
 - megantra
 - Chenwei19970227
-- [**@flemm0**](https://github.com/flemm0) Hi, I'm Flemming. I am from LA and I like to snowboard.
+- [**@flemm0**](https://github.com/flemm0) Hi, I'm Flemming. I'm an  M.S. student in Bioinformatics. I am from LA and I like to snowboard.
 - vivi0903
 - yanyanming77
 - v-yin
