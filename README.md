@@ -30,6 +30,8 @@ repository.
 
 [**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px"> 
 
+[**@skzhong1219**](https://github.com/skzhong1219) I am an M.S. in Applied Biostats and Epi student! I love to dance!
+
 # PM566 Fall 2022 students
 
 - [**@kailaan00**](https://github.com/kailaan00) Hello, my name is Kaila An! I am an MPH student graduating in Spring of 2023.
