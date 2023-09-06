@@ -30,6 +30,8 @@ repository.
 
 - [**@mosenxiong**](https://github.com/mosenxiong) Hi, here is senxiong. I am master student majoring in Biostatistics. I love milk tea! 
 
+- @aobinelo I am an MD/MPH student who's into plants and sewing. Like Jeff, I am allergic to pineapple.
+
 - [**@aflouie**](https://github.com/aflouie) I am allergic to papaya. <img src="https://www.purveyd.com/cdn/shop/products/PAPAYA-YELLOW_600x.jpg?v=1652116272" width="40px">
 
 vsramos: (https://github.com/soniavsd) I am not good at coding but I enjoy it.
