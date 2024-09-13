@@ -40,7 +40,7 @@ Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love St
 [**danagonz**] (https://github.com/danagonz) I'm a first year MPH student in the Biostatistics and Epidemiology concentration! In my free time, I love to go thrift, go to the beach with friends, and listen to music! <img src="https://www.google.com/search?q=dana+gonzalez+usc&sca_esv=2fcb7b144273d9a6&udm=2&biw=1440&bih=668&ei=JT_bZtf9OaGlkPIPtPzF8A8&ved=0ahUKEwiXpMOC766IAxWhEkQIHTR-Ef4Q4dUDCBE&uact=5&oq=dana+gonzalez+usc&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWRhbmEgZ29uemFsZXogdXNjSMIRUOEDWIcQcAJ4AJABAJgBNaAB0wKqAQE3uAEDyAEA-AEBmAIEoALWAcICBxAAGIAEGArCAgUQABiABMICBhAAGAcYHsICBBAAGB7CAgYQABgKGB7CAgYQABgeGA-YAwCIBgGSBwE0oAeTGg&sclient=gws-wiz-serp#vhid=VkOwe7pAdywqVM&vssid=mosaic" width="40px">
 
 ```md
-[**@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, a second year MPH student. I was recently gifted a kitten named Lunita! She takes up most of my time now :) 
+[**@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, and I was recently gifted a kitten named Lunita! She takes up most of my time now.
 ```
 
 [**@AriH-797**](https://github.com/AriH-797/) Hi! My name is Arianna and I am from Venezuela!
