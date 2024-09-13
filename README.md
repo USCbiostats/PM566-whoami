@@ -33,7 +33,12 @@ repository (the USCbiostats version).
 
 [**@carissafeliciano**](https://github.com/carissafeliciano) Hi! I'm Carissa, and I am from the San Francisco Bay Area. 
 
-Sahar Ghahramani
+
+
+```md
+[**@sshahi98**](https://github.com/sshahi98) I love taking candid pictures of street cats. We have lots of street cats in my country, Iran, and they are the most beautiful cats ever! PS. I have no bias! <img src="IMG_0810.jpg">
+```
+
 
 Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love Star Wars and have a Lego collection!
 
