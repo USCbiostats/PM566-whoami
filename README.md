@@ -37,7 +37,7 @@ Sahar Ghahramani
 
 Ellya Gholmieh [**@KodzuKenma101**](https://github.com/KodzuKenma101/) I love Star Wars and have a Lego collection!
 
-[**danagonz**] (https://github.com/danagonz) I'm a first year MPH student in the Biostatistics and Epidemiology concentration! In my free time, I love to go thrift, go to the beach with friends, and listen to music! <img src="https://www.google.com/search?q=dana+gonzalez+usc&sca_esv=2fcb7b144273d9a6&udm=2&biw=1440&bih=668&ei=JT_bZtf9OaGlkPIPtPzF8A8&ved=0ahUKEwiXpMOC766IAxWhEkQIHTR-Ef4Q4dUDCBE&uact=5&oq=dana+gonzalez+usc&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWRhbmEgZ29uemFsZXogdXNjSMIRUOEDWIcQcAJ4AJABAJgBNaAB0wKqAQE3uAEDyAEA-AEBmAIEoALWAcICBxAAGIAEGArCAgUQABiABMICBhAAGAcYHsICBBAAGB7CAgYQABgKGB7CAgYQABgeGA-YAwCIBgGSBwE0oAeTGg&sclient=gws-wiz-serp#vhid=VkOwe7pAdywqVM&vssid=mosaic" width="40px">
+[**@danagonz**] (https://github.com/danagonz) I'm a first year MPH student in the Biostatistics and Epidemiology concentration!
 
 ```md
 [**@jhernandez3609**](https://github.com/jhernandez3609/) I'm Jazmin, and I was recently gifted a kitten named Lunita! She takes up most of my time now.
@@ -49,7 +49,7 @@ Alli Hoang
 
 [**@giulietk**](https://github.com/giulietk/) I'm Giuliet Kibler and I'm from St. Louis, Missouri.
 
-Katie Loomis
+Katie Loomis: Hello, I'm Katie. My cats and I are from the moon, but my husband is from Pennsylvania. <img src= "https://preview.redd.it/fun-challenge-enter-the-same-exact-prompt-but-creatively-v0-xuwjarvsgkac1.jpg?width=1024&format=pjpg&auto=webp&s=81feff37f5ac86d56fdf02e29e3e4a27ce8c4599" width="40px">
 
 [**@normamarshall**](https://github.com/normamarshall/) Hi I'm Norma! I'm a first year student in the MPH program! I'm from Los Angeles and I enjoy trying new cold brews around town!<img src="https://media.licdn.com/dms/image/v2/D5603AQE_lhuh9GlOqw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1676502746204?e=1730937600&v=beta&t=q6Qm_LEqwsuiRRKYbotk_H6SpZoKFyVQdzEDg6pJyCA" width="40px"> 
 
@@ -63,7 +63,7 @@ Si SHEN
 
 [**@bellavillan**] (https://github.com/bellavillan) I can speak French oui oui  
 
-Erin Yu
+Erin Yu I am from Orange County and I love pasta  
 
 [**@yhyhyyy**](https://github.com/yhyhyyy/) I am Haoyu Yu and I like play tennis! <img src="https://avatars.githubusercontent.com/u/179960482?s=400&u=eb6a6ccca5dd20b246be9a2bc0defa3013813fc9&v=4" width="40px">
 
