@@ -22,7 +22,7 @@ repository (the USCbiostats version).
 
 # PM566 Fall 2025 students
 
-Uma Agarwal
+[**@umaa908**](https://github.com/umaa908) I'm a first year Public Health Data Science MS student. My friends know me for my homemade chocolate lava cakes! 
 
 Mitchell Anderson
 
