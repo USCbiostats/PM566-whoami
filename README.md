@@ -64,7 +64,7 @@ Gowri Yeliyur Shivakumara Swamy [**@gyeliyur**](https://github.com/gyeliyur) I'm
 
 [**@kstreet13**](https://github.com/kstreet13) I'm Kelly and I attended my first WNBA game earlier this year (Sparks vs. Mercury). <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="Kelly Street" width="40px"> 
 
-Xuduo Victor Wen
+[**@xuduovictorwen**](https://github.com/xuduovictorwen) I am Victor and I am a second year PHD student in Biostatistics.
 
 
 # PM566 Fall 2024 students
