@@ -22,51 +22,56 @@ repository (the USCbiostats version).
 
 # PM566 Fall 2025 students
 
-Uma Agarwal
+[**@umaa908**](https://github.com/umaa908) I'm a first year Public Health Data Science MS student. My friends know me for my homemade chocolate lava cakes! 
 
 Mitchell Anderson
+[**@moanderson004**](https://github.com/moanderson004/) my name is mitchell anderson and I write with my left hand
 
-Katherine Gong
+Katherine Gong https://github.com/KatherineG566 I am Katherine, a first year MS student in applied biostatistics and epidemiology, and I love petting my cat. 
 
-Yiwei Gu
+Yiwei Gu[**@Ywguyiwei**](https://github.com/Ywguyiwei) I'm Yiwei, a 2nd year master's student at Mann. I love labubu and crybaby. https://bagaholicboy.com/2024/08/the-monsters-10-things-to-know-labubu
 
-Yitong Huang
+Yitong Huang [**@YitongHuang**](https://github.com/YitongHuang) I am biostatistics student and this is my first year's studying. 
 
 Oscar Lam
 
-Chih-Chan Lan
+[**@imlanlanoh**](https://github.com/imlanlanoh) Hi I'm Chih-Chan (Jessica), a 2nd year HSME student! I love to play pickleball recently! <img src="images/Jessica_profile.png"  width="40px">
 
-Ziquan Liu
+[**@ZiquanHisonLiuLance**](https://github.com/ZiquanHisonLiuLance) Hey! My name is Ziquan Liu, though you may also call me Harrison. I enjoy singing and exploring cities on foot.
 
-Tarun Mahesh
+Tarun Mahesh: [**tmahesh25**](https://github.com/tmahesh25) I'm from India, and I major in Molecular Microbiology and Immunology at USC! <img src="https://www.meowbox.com/cdn/shop/articles/Screen_Shot_2024-03-15_at_10.53.41_AM.png?v=1710525250" alt="profile pic" width="40px">
 
-Yuhan Meng
+Yuhan Meng：(https://github.com/Hannah-Meng) I'm Hannah, first-year Master program in Applied Biostatistics and Epidemiology
 
-Christian Navarro
+[**Christian-Navarro**] (https://github.com/Christian-Navarro) I'm a first year Masters student in the ABEP.
 
 Julian Olea: [**@jul1an-o**](https://github.com/jul1an-o) I like going to Mammoth every weekend during the ski season. <img src="https://www.mammothmountainstore.com/cdn/shop/files/54716.png?v=1728514892" alt="profile pic" width="40px">
 
 Bangyan L Stiles [**@bstiles-2025**](https://github.com/bstiles-2025) I am trying to learn R this Fall.
 
 
-Brandy Recio
+[**@brecio93**](https://github.com/brecio93) I'm doing my PhD in Clinical and experimental therapeutics at USCMann. I am currently into rock climbing
 
-Vicki Shen
+Vicki Shen [**@shenvicki**](https://github.com/shenvicki) I'm Vicki, a 2nd year MPH health services & policy student!
 
-Jordan Walton
+[**@jkwalton**](https://github.com/jkwalton) I work at LA Galaxy as a Sports Scientist. I am also a twin!
 
 Yi Wang
 
-Xinran Wang
+Xinran Wang. [**@xinranwang111**](https://github.com/xinranwang111) I like watching true crime series
 
-Gowri Yeliyur Shivakumara Swamy
+Gowri Yeliyur Shivakumara Swamy [**@gyeliyur**](https://github.com/gyeliyur) I'm Gowri and I am a second year Master's student.
+
+Chi-Erh Chiu [**@ChierhChiu**](https://github.com/ChierhChiu) Hello:) I'm Jill and an international student from Taiwan. I like to play video games with my friends on discord.
+
+
 
 
 ## Instructors
 
 [**@kstreet13**](https://github.com/kstreet13) I'm Kelly and I attended my first WNBA game earlier this year (Sparks vs. Mercury). <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="Kelly Street" width="40px"> 
 
-Xuduo Victor Wen
+[**@xuduovictorwen**](https://github.com/xuduovictorwen) I am Victor and I am a second year PHD student in Biostatistics.
 
 
 # PM566 Fall 2024 students
@@ -81,7 +86,6 @@ Xuduo Victor Wen
 [**@kdimson22**](https://github.com/kdimson22) - I'm Kendall, second-year MPH biostat/epi student, and I like rock climbing :)
 
 [**@carissafeliciano**](https://github.com/carissafeliciano) Hi! I'm Carissa, and I am from the San Francisco Bay Area. 
-
 
 
 ```md
