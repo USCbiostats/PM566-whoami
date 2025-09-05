@@ -42,7 +42,7 @@ Tarun Mahesh
 
 Yuhan Meng
 
-Christian Navarro
+[**Christian-Navarro**] (https://github.com/Christian-Navarro) I am a first year Masters student in the ABEP.
 
 Julian Olea: [**@jul1an-o**](https://github.com/jul1an-o) I like going to Mammoth every weekend during the ski season. <img src="https://www.mammothmountainstore.com/cdn/shop/files/54716.png?v=1728514892" alt="profile pic" width="40px">
 
