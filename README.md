@@ -44,10 +44,10 @@ Yuhan Meng
 
 Christian Navarro
 
-Bangyan L Stiles
+Julian Olea: [**@jul1an-o**](https://github.com/jul1an-o) I like going to Mammoth every weekend during the ski season. <img src="https://www.mammothmountainstore.com/cdn/shop/files/54716.png?v=1728514892" alt="profile pic" width="40px">
 
-[**@bstiles-2025**](https://github.com/bstiles-2025) I am trying to learn R this Fall.
-<img src="https://www.mammothmountainstore.com/cdn/shop/files/54716.png?v=1728514892" alt="profile pic" width="40px">
+Bangyan L Stiles [**@bstiles-2025**](https://github.com/bstiles-2025) I am trying to learn R this Fall.
+
 
 Brandy Recio
 
