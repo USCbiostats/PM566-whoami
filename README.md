@@ -49,7 +49,7 @@ Julian Olea: [**@jul1an-o**](https://github.com/jul1an-o) I like going to Mammot
 
 Brandy Recio
 
-Vicki Shen
+Vicki Shen [**@shenvicki**](https://github.com/shenvicki) I'm Vicki, a 2nd year MPH health services & policy student!
 
 [**@jkwalton**](https://github.com/jkwalton) I work at LA Galaxy as a Sports Scientist. I am also a twin!
 
