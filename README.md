@@ -30,7 +30,7 @@ Katherine Gong
 
 Yiwei Gu
 
-Yitong Huang
+Yitong Huang [**@YitongHuang**](https://github.com/YitongHuang) I am biostatistics student and this is my first year's studying. 
 
 Oscar Lam
 
