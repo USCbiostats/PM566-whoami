@@ -58,6 +58,8 @@ Xinran Wang
 
 Gowri Yeliyur Shivakumara Swamy
 
+Chi-Erh Chiu
+
 
 ## Instructors
 
@@ -79,6 +81,7 @@ Xuduo Victor Wen
 
 [**@carissafeliciano**](https://github.com/carissafeliciano) Hi! I'm Carissa, and I am from the San Francisco Bay Area. 
 
+[**@ChierhChiu**](https://github.com/ChierhChiu) Hello:) I'm Jill and an international student from Taiwan. I like to play video games with my friends on discord.
 
 
 ```md
