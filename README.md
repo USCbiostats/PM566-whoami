@@ -51,7 +51,7 @@ Brandy Recio
 
 Vicki Shen
 
-Jordan Walton
+[**@jkwalton**](https://github.com/jkwalton) I work at LA Galaxy as a Sports Scientist. I am also a twin!
 
 Yi Wang
 
