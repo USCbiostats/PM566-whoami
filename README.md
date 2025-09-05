@@ -40,7 +40,7 @@ Ziquan Liu
 
 Tarun Mahesh
 
-Yuhan Meng：I'm Hannah,first-year Master program in Applied Biostatistics and Epidemiology
+Yuhan Meng：(https://github.com/Hannah-Meng) I'm Hannah, first-year Master program in Applied Biostatistics and Epidemiology
 
 Christian Navarro
 
