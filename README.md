@@ -28,7 +28,7 @@ Mitchell Anderson
 
 Katherine Gong
 
-[**@Ywguyiwei**](https://github.com/Ywguyiwei) I'm Yiwei, a 2nd year master's student at Mann. I love labubu and crybaby. https://bagaholicboy.com/2024/08/the-monsters-10-things-to-know-labubu
+Yiwei Gu[**@Ywguyiwei**](https://github.com/Ywguyiwei) I'm Yiwei, a 2nd year master's student at Mann. I love labubu and crybaby. https://bagaholicboy.com/2024/08/the-monsters-10-things-to-know-labubu
 
 Yitong Huang
 
