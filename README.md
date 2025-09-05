@@ -26,7 +26,7 @@ Uma Agarwal
 
 Mitchell Anderson
 
-Katherine Gong
+Katherine Gong I am Katherine, a first year MS student in applied biostatistics and epidemiology, and I love peting my cat. 
 
 Yiwei Gu
 
