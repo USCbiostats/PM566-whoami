@@ -3,13 +3,13 @@
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
 ```md
-[**@username**](https://github.com/username/) something about you
+[**@bstiles-2025**](https://github.com/bstiles-2025/) Just trying to learn a little about coding
 ```
 
 You can also add a small picture at the end. It's optional (but fun!) and can come from anywhere on the internet just by adding a link to the image file. Here is the code I used to create my intro, which you can use as a template:
 
 ```md
-[**@kstreet13**](https://github.com/kstreet13) Growing up, I watched D2: The Mighty Ducks way too many times. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px">
+[**@bstiles-2025**](https://github.com/bstiles-2025) nothing for now <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px">
 ```
 
 Look for your GitHub username and add a link to your Github profile and something about
@@ -46,6 +46,9 @@ Yuhan Meng：(https://github.com/Hannah-Meng) I'm Hannah, first-year Master prog
 [**Christian-Navarro**] (https://github.com/Christian-Navarro) I'm a first year Masters student in the ABEP.
 
 Julian Olea: [**@jul1an-o**](https://github.com/jul1an-o) I like going to Mammoth every weekend during the ski season. <img src="https://www.mammothmountainstore.com/cdn/shop/files/54716.png?v=1728514892" alt="profile pic" width="40px">
+
+Bangyan L Stiles [**@bstiles-2025**](https://github.com/bstiles-2025) I am trying to learn R this Fall.
+
 
 [**@brecio93**](https://github.com/brecio93) I'm doing my PhD in Clinical and experimental therapeutics at USCMann. I am currently into rock climbing
 
