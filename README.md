@@ -46,7 +46,7 @@ Christian Navarro
 
 Julian Olea: [**@jul1an-o**](https://github.com/jul1an-o) I like going to Mammoth every weekend during the ski season. <img src="https://www.mammothmountainstore.com/cdn/shop/files/54716.png?v=1728514892" alt="profile pic" width="40px">
 
-Brandy Recio 
+[**@brecio93**](https://github.com/brecio93) I'm doing my PhD in Clinical and experimental therapeutics at USCMann. I am currently into rock climbing
 
 Vicki Shen
 
