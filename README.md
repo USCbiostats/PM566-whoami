@@ -25,6 +25,7 @@ repository (the USCbiostats version).
 Uma Agarwal
 
 Mitchell Anderson
+[**@moanderson004**](https://github.com/moanderson004/) my name is mitchell anderson and I write with my left hand
 
 Katherine Gong
 
