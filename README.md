@@ -41,7 +41,7 @@ Oscar Lam
 
 Tarun Mahesh: [**tmahesh25**](https://github.com/tmahesh25) I'm from India, and I major in Molecular Microbiology and Immunology at USC! <img src="https://www.meowbox.com/cdn/shop/articles/Screen_Shot_2024-03-15_at_10.53.41_AM.png?v=1710525250" alt="profile pic" width="40px">
 
-Yuhan Meng：I'm Hannah,first-year Master program in Applied Biostatistics and Epidemiology
+Yuhan Meng：(https://github.com/Hannah-Meng) I'm Hannah, first-year Master program in Applied Biostatistics and Epidemiology
 
 [**Christian-Navarro**] (https://github.com/Christian-Navarro) I'm a first year Masters student in the ABEP.
 
