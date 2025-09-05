@@ -35,7 +35,7 @@ Yitong Huang
 
 Oscar Lam
 
-Chih-Chan Lan
+[**@imlanlanoh**](https://github.com/imlanlanoh) Hi I'm Chih-Chan (Jessica), a 2nd year HSME student! I love to play pickleball recently! <img src="images/Jessica_profile.png"  width="40px">
 
 Ziquan Liu
 
