@@ -59,6 +59,8 @@ Xinran Wang. [**@xinranwang111**](https://github.com/xinranwang111) I like watch
 
 Gowri Yeliyur Shivakumara Swamy [**@gyeliyur**](https://github.com/gyeliyur) I'm Gowri and I am a second year Master's student.
 
+Chi-Erh Chiu
+
 
 ## Instructors
 
@@ -80,6 +82,7 @@ Gowri Yeliyur Shivakumara Swamy [**@gyeliyur**](https://github.com/gyeliyur) I'm
 
 [**@carissafeliciano**](https://github.com/carissafeliciano) Hi! I'm Carissa, and I am from the San Francisco Bay Area. 
 
+[**@ChierhChiu**](https://github.com/ChierhChiu) Hello:) I'm Jill and an international student from Taiwan. I like to play video games with my friends on discord.
 
 
 ```md
