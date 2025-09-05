@@ -56,7 +56,7 @@ Yi Wang
 
 Xinran Wang
 
-Gowri Yeliyur Shivakumara Swamy
+Gowri Yeliyur Shivakumara Swamy [**@gyeliyur**](https://github.com/gyeliyur) I'm Gowri and I am a second year Master's student.
 
 
 ## Instructors
