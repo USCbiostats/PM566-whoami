@@ -64,6 +64,7 @@ Gowri Yeliyur Shivakumara Swamy [**@gyeliyur**](https://github.com/gyeliyur) I'm
 
 Chi-Erh Chiu [**@ChierhChiu**](https://github.com/ChierhChiu) Hello:) I'm Jill and an international student from Taiwan. I like to play video games with my friends on discord.
 
+Mark Tello-Rincon [**mtellor**](https://github.com/mtellor) Hi, I'm Mark and I'm from Los Angeles. I'm a fourth year undergraduate student and 2nd semester MPH Biostats-Epi student. 
 
 
 
