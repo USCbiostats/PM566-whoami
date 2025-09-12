@@ -53,7 +53,7 @@ Vicki Shen [**@shenvicki**](https://github.com/shenvicki) I'm Vicki, a 2nd year 
 
 [**@jkwalton**](https://github.com/jkwalton) I work at LA Galaxy as a Sports Scientist. I am also a twin!
 
-Yi Wang
+Yi Wang [**@ywang826**](https://github.com/ywang826)I'm from China, and in my 2nd year of Master's degree in bioinformatics.
 
 Xinran Wang. [**@xinranwang111**](https://github.com/xinranwang111) I like watching true crime series
 
