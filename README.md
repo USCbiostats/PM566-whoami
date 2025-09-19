@@ -33,7 +33,7 @@ Yiwei Gu[**@Ywguyiwei**](https://github.com/Ywguyiwei) I'm Yiwei, a 2nd year mas
 
 Yitong Huang [**@YitongHuang**](https://github.com/YitongHuang) I am biostatistics student and this is my first year's studying. 
 
-Oscar Lam
+[**@OscarL43**](https://github.com/OscarL43) I am Oscar and I am a senior majoring in econ and doing the MS PHDS.
 
 [**@imlanlanoh**](https://github.com/imlanlanoh) Hi I'm Chih-Chan (Jessica), a 2nd year HSME student! I love to play pickleball recently! <img src="images/Jessica_profile.png"  width="40px">
 
