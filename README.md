@@ -34,7 +34,7 @@ Nathan Weitershausen
 
 [**@makenacw**] (https://github.com/makenacw) Im Makena, and I am a second year Masters student in the BioKinesiology department.
 
-Caitlin Worline
+Caitlin Worline [**@CWorline**](https://github.com/CWorline/PM556-) Hello, My name is Caitlin, Im a 2nd year Biokinesiology MS Student. Fun Fact about me I LOVE any and everything Stitch <3. <img src="https://media.tenor.com/rD7yqj0-gvYAAAAM/stitch-stitch-hi.gif" Width="40">
 
 Sabrina Zhang [**@yumengzhang99-cyber**](https://github.com/yumengzhang99-cyber/) I'm Sabrina, and I'm a second-year MPH student in Biostatistics and Epidemiology. I used to work in auditing before switching to public health!
 
