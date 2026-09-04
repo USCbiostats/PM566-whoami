@@ -38,7 +38,7 @@ Caitlin Worline
 
 Sabrina Zhang [**@yumengzhang99-cyber**](https://github.com/yumengzhang99-cyber/) I'm Sabrina, and I'm a second-year MPH student in Biostatistics and Epidemiology. I used to work in auditing before switching to public health!
 
-Ran Zhu
+Ran Zhu [**@ranzhu-art**](https://github.com/ranzhu-art/): Hi, I'm Ran Zhu, and I'm a second-year Bioinfomatics Master student in the TRGN program at USC. I come from Tianjin, China. I've been in LA about a year now but I'm still always up for exploring fun spots around the city! 
 
 ## Instructor
 
