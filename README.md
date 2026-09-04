@@ -36,7 +36,7 @@ Caitlin Worline
 
 Sabrina Zhang
 
-Ran Zhu
+Ran Zhu: Hi, I'm Ran Zhu, and I'm a second-year Bioinfomatics Master student in the TRGN program at USC. I come from Tianjin, China. I've been in LA about a year now but I'm still always up for exploring fun spots around the city! 
 
 ## Instructor
 
