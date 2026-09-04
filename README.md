@@ -28,7 +28,7 @@ Danielle Goedhart
 
 Tasmiah Khan
 
-[**ndub6**](https://github.com/ndub6/) I'm Nate and I have been to 30 different countries.
+[**ndub6**](https://github.com/ndub6/) I'm Nate,a 2nd year Biokinesiology MS student from the Bay Area, I love football.
 
 Makena Wilson
 
