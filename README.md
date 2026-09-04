@@ -40,6 +40,8 @@ Sabrina Zhang [**@yumengzhang99-cyber**](https://github.com/yumengzhang99-cyber/
 
 Ran Zhu [**@ranzhu-art**](https://github.com/ranzhu-art/): Hi, I'm Ran Zhu, and I'm a second-year Bioinfomatics Master student in the TRGN program at USC. I come from Tianjin, China. I've been in LA about a year now but I'm still always up for exploring fun spots around the city! 
 
+Qiuyang Zhang [**@AmberZhang100**](https://github.com/AmberZhang100/) I'm Qiuyang and I'm a 3rd year PIBBS student. It's great to attend this course and know everyone!
+
 ## Instructor
 
 [**@kstreet13**](https://github.com/kstreet13) I'm Kelly and I'm currently enjoying the game Hades II. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="Kelly Street" width="40px"> 
