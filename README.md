@@ -30,7 +30,7 @@ Tasmiah Khan
 
 Nathan Weitershausen
 
-Makena Wilson
+[**@makenacw**] (https://github.com/makenacw) Im Makena, and I am a second year Masters student in the BioKinesiology department.
 
 Caitlin Worline
 
