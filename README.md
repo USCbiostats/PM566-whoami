@@ -28,7 +28,7 @@ Danielle Goedhart
 
 Tasmiah Khan
 
-Nathan Weitershausen
+[**ndub6**](https://github.com/ndub6/) I'm Nate and I have been to 30 different countries.
 
 Makena Wilson
 
