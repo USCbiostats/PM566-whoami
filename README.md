@@ -3,7 +3,7 @@
 You need to make a fork of this repository, find your name in the list below, and replace it with something like:
 
 ```md
-[**@username**](https://github.com/username/) something about you
+[**@CWorline**](https://github.com/CWorline/PM556-) Hello, My name is Caitlin, Im a 2nd year Biokinesiology MS Student. Fun Fact about me I LOVE any and everything Stitch <3. <img src="https://media.tenor.com/rD7yqj0-gvYAAAAM/stitch-stitch-hi.gif'>
 ```
 
 You can also add a small picture at the end. It's optional (but fun!) and can come from anywhere on the internet just by adding a link to the image file. Here is the code I used to create my intro, which you can use as a template:
