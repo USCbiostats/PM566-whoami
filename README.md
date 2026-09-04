@@ -32,7 +32,7 @@ Danielle Goedhart
 
 Nathan Weitershausen
 
-[**@makenacw**] (https://github.com/makenacw) Im Makena, and I am a second year Masters student in the BioKinesiology department.
+[**@makenacw**](https://github.com/makenacw) Im Makena, and I am a second year Masters student in the BioKinesiology department
 
 Caitlin Worline [**@CWorline**](https://github.com/CWorline/PM556-) Hello, My name is Caitlin, Im a 2nd year Biokinesiology MS Student. Fun Fact about me I LOVE any and everything Stitch <3. <img src="https://media.tenor.com/rD7yqj0-gvYAAAAM/stitch-stitch-hi.gif" Width="40">
 
