@@ -34,7 +34,7 @@ Nathan Weitershausen
 
 Caitlin Worline
 
-Sabrina Zhang
+Sabrina Zhang [**@yumengzhang99-cyber**](https://github.com/yumengzhang99-cyber/) I'm Sabrina, and I'm a second-year MPH student in Biostatistics and Epidemiology. I used to work in auditing before switching to public health!
 
 Ran Zhu
 
