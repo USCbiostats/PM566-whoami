@@ -30,7 +30,7 @@ Danielle Goedhart
 [**@tasmiahk27**](https://github.com/tasmiahk27/) I am a second-year student in the MS Applied Biostatistics and Epidemiology track. I was born and raised here in Los Angeles, and I love going to concerts! My favorite artist live so far is Adele.  <img src="https://raw.githubusercontent.com/tasmiahk27/PM566-whoami/main/images/melissa197-dog-8781844_640.jpg" alt="Tasmiah Khan" width="40px">
 
 
-Nathan Weitershausen
+[**ndub6**](https://github.com/ndub6/) I'm Nate, a 2nd year Biokinesiology MS student from the Bay Area, I love football.
 
 [**@makenacw**](https://github.com/makenacw) Im Makena, and I am a second year Masters student in the BioKinesiology department
 
