@@ -32,7 +32,7 @@ Danielle Goedhart
 
 [**ndub6**](https://github.com/ndub6/) I'm Nate, a 2nd year Biokinesiology MS student from the Bay Area, I love football.
 
-[**@makenacw](https://github.com/makenacw) Hi Im Makena and Im currently a second year Masters student in the BioKinesiology Department! <img src="images/Makena_Profile.HEIC" width="40px">
+[**@makenacw**](https://github.com/makenacw) Hi Im Makena and Im currently a second year Masters student in the BioKinesiology Department! <img src="images/Makena_Picture1.jpg" width="40px">
 
 Caitlin Worline [**@CWorline**](https://github.com/CWorline/PM556-) Hello, My name is Caitlin, Im a 2nd year Biokinesiology MS Student. Fun Fact about me I LOVE any and everything Stitch <3. <img src="https://media.tenor.com/rD7yqj0-gvYAAAAM/stitch-stitch-hi.gif" Width="40">
 
